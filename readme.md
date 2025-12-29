@@ -17,7 +17,7 @@ The **Iris Flower Classification Web Application** is a machine learning-based t
 
 ![Iris Flower Classification – Streamlit UI](f846a3cb-f6ae-45ee-b91f-43d9c581c489.png)
 
-> ![image](https://github.com/username/repo/assets/demo)
+> ![image](https://github.com/Mohanr86/Iris-Flower-Classifier/assets/demo)
 
 
 ---
